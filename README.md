@@ -1,55 +1,59 @@
 # Hi there 👋, I'm Amartya Sen (Amar)
 
-**AI & Machine Learning Enthusiast | Backend Developer**
+**AI & Machine Learning Engineer | Quantitative Architecture**
 
-🎓 B.Tech Computer Science & Engineering (AI & ML) undergrad at **Lovely Professional University** (Class of 2028). I specialize in building intelligent, scalable backend systems, enterprise-grade Retrieval-Augmented Generation (RAG) platforms, and automated machine learning workflows.
+🎓 B.Tech Computer Science & Engineering (AI & ML) undergrad at **Lovely Professional University** (Class of 2028). I architect resilient, autonomous AI systems at the intersection of quantitative finance and deep learning, specializing in enterprise-grade Retrieval-Augmented Generation (RAG) pipelines and high-performance, non-blocking asynchronous architectures.
 
 ---
 
 ### 🚀 Quick Stats & Current Focus
 
-- 🔭 **Currently Building:** Expanding the capabilities of **Socrates Research Engine** and developing ML-driven algorithmic trading systems.
-- 🌱 **Currently Exploring:** Advanced RAG architectures, quantitative trading algorithms, and optimizing deployment pipelines.
-- 🏆 **Recent Milestones:** Secured **6th Place at Microsoft's Code Storm Hackathon** (June 2026) and actively competing in the **Amazon ML Challenge 2026**.
-- 📫 **How to reach me:** [Insert your LinkedIn/Email link here]
+- 🔭 **Currently Building:** **Socrates AI**, an institutional-grade quantitative research engine with a Next.js terminal and FastAPI backend.
+- 🌱 **Currently Exploring:** Deep RAG vectorization optimization, autonomous ML trading algorithms, and fail-fast systemic architecture.
+- 🏆 **Recent Milestones:** Secured **6th Place at Microsoft's Code Storm Hackathon** (June 2026) and competing in the **Amazon ML Challenge 2026**.
+- 📫 **Connect with me:** [[LinkedIn](https://www.linkedin.com/in/amartya-sen)]
 
 ---
 
-### 💻 Tech Stack & Tools
+### 💻 Tech Stack & Architecture
 
 **Languages**
-- Python • C++ • Java • C
+- Python • TypeScript • C++ • Java • C
 
-**AI & Machine Learning**
-- RAG Architectures • Large Language Models (Llama 3 via Groq) • Cohere Embeddings • XGBoost • Vector Databases (pgvector)
+**AI, Vector & Data Engineering**
+- Multi-query RAG • Groq (Llama-3.3-70b) • Cohere Embeddings • XGBoost
+- Supabase (PostgreSQL + pgvector) • SEC EDGAR Automated Ingestion
 
-**Backend & Databases**
-- FastAPI • Spring Boot • PostgreSQL • Supabase • RESTful API Design
+**Backend & High-Performance APIs**
+- FastAPI (Asynchronous) • Spring Boot • Alpaca Broker SDK • Pydantic
 
-**Cloud, DevOps & Tools**
-- Microsoft Azure • Docker • Vercel • Render • Streamlit • VS Code • Cursor
+**Frontend & Institutional UX**
+- Next.js 14+ (App Router) • React 18 • Tailwind CSS • TradingView Advanced Charts
+
+**Cloud & DevOps**
+- Vercel • Render • Microsoft Azure • Docker
 
 ---
 
-### 📂 Featured Projects
+### 📂 Featured Systems
 
-#### 🧠 [Socrates Research Engine](https://github.com/AmartyaSen23/socrates_backend) *(Public)*
-An enterprise-grade AI research platform designed for deep document analysis and synthesis.
-- **Architecture:** Built with a multi-query Retrieval-Augmented Generation (RAG) pipeline.
-- **Tech Stack:** FastAPI backend, Streamlit frontend (`socrates-frontend`), Llama 3 (Groq API), Cohere embeddings, and Supabase with pgvector for efficient semantic search.
+#### 🏛️ [Socrates AI: Autonomous Quantitative Research Engine](https://github.com/AmartyaSen23/socrates_backend) *(Public)*
+A fully autonomous, production-ready data engineering and AI inference platform designed to replicate an institutional Bloomberg Terminal. 
+- **The Engine (Backend):** Asynchronous FastAPI deployed on **Render**. Features a self-healing 5-layer cascade for aggressive market data ingestion and a Deep SEC RAG Vectorization engine that chunks and embeds massive 10-K/20-F filings directly into **Supabase pgvector**.
+- **The Terminal (Frontend):** Next.js 14+ application deployed on **Vercel**. Engineered with an "Immortal" polling architecture for zero-latency UX, featuring asynchronous market integrations and non-blocking background RAG execution streams.
+- **AI Brain:** Leverages Cohere for embeddings and Llama-3.3-70b via Groq to synthesize structured trading theses from live SEC filings and institutional news.
 
-#### 📈 XGBoost Quant Trader *(Private Repository)*
-An automated quantitative trading platform that executes data-driven market strategies.
-- **Architecture:** Leverages trained XGBoost machine learning models for predictive trade signals.
-- **Tech Stack:** Integrated with the **Alpaca API** for live trade execution and fully deployed on **Microsoft Azure** for high availability and low latency.
+#### 📈 XGBoost Quant Trader *(Private)*
+An automated quantitative trading platform executing data-driven market strategies at sub-second latencies.
+- **Architecture:** Utilizes trained XGBoost machine learning models for predictive trade signals.
+- **Infrastructure:** Integrated directly with the **Alpaca API** for live execution and fully deployed on **Microsoft Azure** for high availability.
 
 #### 🏢 CampusShare (UniRent) *(Public)*
-A secure, peer-to-peer university resource-sharing marketplace web application.
-- **Architecture:** Designed a robust backend with secure user authentication and scalable data management.
-- **Tech Stack:** Spring Boot REST API, Supabase PostgreSQL, JWT authentication, hosted seamlessly across Render (backend) and Vercel (frontend).
+A secure, peer-to-peer university resource-sharing marketplace.
+- **Tech Stack:** Spring Boot REST API, Supabase PostgreSQL, JWT authentication. Hosted seamlessly across **Render** (backend) and **Vercel** (frontend).
 
 #### 🌍 BloomNet *(Public)*
-A community-focused web application conceptualized for food exchange and surplus redistribution utilizing geolocation coordination to connect users efficiently.
+A community-focused web application for food exchange and surplus redistribution utilizing geolocation coordination to connect users efficiently.
 
 ---
 
@@ -63,10 +67,9 @@ A community-focused web application conceptualized for food exchange and surplus
 
 ### 📊 GitHub Analytics
 
-<!-- NOTE: Replace 'AmartyaSen23' with your exact GitHub username if it differs, to activate these dynamic stat cards -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AmartyaSen23&show_icons=true&theme=radium&hide_border=true" alt="Amar's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmartyaSen23&theme=radium&hide_border=true" alt="Amar's GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=AmartyaSen23&theme=radium&hide_border=true" alt="Amar's GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
