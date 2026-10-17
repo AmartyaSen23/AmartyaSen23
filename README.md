@@ -21,14 +21,15 @@
 - Python • TypeScript • C++ • Java • C
 
 **AI, Vector & Data Engineering**
-- Multi-query RAG • Groq (Llama-3.3-70b) • Cohere Embeddings • XGBoost
+- Multi-query RAG • Dynamic LLM Orchestration (Groq) • Cohere Embeddings
+- TensorFlow / Keras (LSTM) • HuggingFace (FinBERT)
 - Supabase (PostgreSQL + pgvector) • SEC EDGAR Automated Ingestion
 
 **Backend & High-Performance APIs**
 - FastAPI (Asynchronous) • Spring Boot • Alpaca Broker SDK • Pydantic
 
 **Frontend & Institutional UX**
-- Next.js 14+ (App Router) • React 18 • Tailwind CSS • TradingView Advanced Charts
+- Next.js 14+ (App Router) • React 18 • Tailwind CSS • TradingView Advanced Charts • Streamlit
 
 **Cloud & DevOps**
 - Vercel • Render • Microsoft Azure • Docker
@@ -37,11 +38,16 @@
 
 ### 📂 Featured Systems
 
-#### 🏛️ [Socrates AI: Autonomous Quantitative Research Engine](https://github.com/AmartyaSen23/socrates_backend) *(Public)*
+#### 🏛️ Socrates AI: Autonomous Quantitative Research Engine
 A fully autonomous, production-ready data engineering and AI inference platform designed to replicate an institutional Bloomberg Terminal. 
-- **The Engine (Backend):** Asynchronous FastAPI deployed on **Render**. Features a self-healing 5-layer cascade for aggressive market data ingestion and a Deep SEC RAG Vectorization engine that chunks and embeds massive 10-K/20-F filings directly into **Supabase pgvector**.
-- **The Terminal (Frontend):** Next.js 14+ application deployed on **Vercel**. Engineered with an "Immortal" polling architecture for zero-latency UX, featuring asynchronous market integrations and non-blocking background RAG execution streams.
-- **AI Brain:** Leverages Cohere for embeddings and Llama-3.3-70b via Groq to synthesize structured trading theses from live SEC filings and institutional news.
+- **[The Engine (Backend)](https://github.com/AmartyaSen23/socrates_backend):** Asynchronous FastAPI deployed on **Render**. Features a self-healing 5-layer cascade for aggressive market data ingestion and a Deep SEC RAG Vectorization engine that chunks and embeds massive 10-K/20-F filings directly into **Supabase pgvector**.
+- **[The Terminal (Frontend)](https://github.com/AmartyaSen23/socrates-frontend):** Next.js 14+ application deployed on **Vercel**. Engineered with an "Immortal" polling architecture for zero-latency UX, featuring asynchronous market integrations and non-blocking background RAG execution streams.
+- **AI Brain:** Leverages Cohere for embeddings and a **dynamic Groq model assignment architecture** (loops up to 5 times to automatically secure an active, non-purged LLM) to synthesize structured trading theses from live SEC filings and institutional news.
+
+#### ⚡ [OmniStock AI: Universal Market Intelligence](https://github.com/AmartyaSen23/OmniStock-AI) *(Public)*
+A high-performance quantitative trading engine merging deep learning price forecasting with real-time NLP market sentiment analysis.
+- **Architecture:** Employs a "King Engine Logic" confluence model, combining a 60-day historical LSTM neural network with a real-time FinBERT & VADER sentiment intercept via Google News RSS.
+- **Infrastructure:** Highly optimized FastAPI core with background telemetry pushed to Supabase, feeding a dynamic, decoupled Streamlit dashboard.
 
 #### 📈 XGBoost Quant Trader *(Private)*
 An automated quantitative trading platform executing data-driven market strategies at sub-second latencies.
@@ -50,9 +56,10 @@ An automated quantitative trading platform executing data-driven market strategi
 
 #### 🏢 CampusShare (UniRent) *(Public)*
 A secure, peer-to-peer university resource-sharing marketplace.
-- **Tech Stack:** Spring Boot REST API, Supabase PostgreSQL, JWT authentication. Hosted seamlessly across **Render** (backend) and **Vercel** (frontend).
+- **Tech Stack:** Spring Boot REST API, Supabase PostgreSQL, JWT authentication. 
+- **Links:** [Frontend Repository (Vercel)](https://github.com/AmartyaSen23/uni_rent) | [Backend Repository (Render)](https://github.com/AmartyaSen23/Uni-Rent-Backend)
 
-#### 🌍 BloomNet *(Public)*
+#### 🌍 [BloomNet](https://github.com/AmartyaSen23/BloomNet) *(Public)*
 A community-focused web application for food exchange and surplus redistribution utilizing geolocation coordination to connect users efficiently.
 
 ---
@@ -67,11 +74,10 @@ A community-focused web application for food exchange and surplus redistribution
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmartyaSen23&show_icons=true&theme=radium&hide_border=true" alt="Amar's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=AmartyaSen23&theme=radium&hide_border=true" alt="Amar's GitHub Streak" width="48%" />
-</p>
+<!-- Stats converted to pure Markdown formatting to bypass GitHub's HTML sanitizer which often breaks <img /> tags -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaSen23&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="50%" />
-</p>
+[![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmartyaSen23&show_icons=true&theme=radium&hide_border=true)](https://github.com/AmartyaSen23)
+<br>
+[![Amar's GitHub Streak](https://streak-stats.demolab.com/?user=AmartyaSen23&theme=radium&hide_border=true)](https://github.com/AmartyaSen23)
+<br>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaSen23&layout=compact&theme=radium&hide_border=true)](https://github.com/AmartyaSen23)
