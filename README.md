@@ -40,7 +40,7 @@
 
 #### 🏛️ Socrates AI: Autonomous Quantitative Research Engine
 A fully autonomous, production-ready data engineering and AI inference platform designed to replicate an institutional Bloomberg Terminal. 
-- **[The Engine (Backend)](https://github.com/AmartyaSen23/socrates_backend):** Asynchronous FastAPI deployed on **Render**. Features a self-healing 5-layer cascade for aggressive market data ingestion and a Deep SEC RAG Vectorization engine that chunks and embeds massive 10-K/20-F filings directly into **Supabase pgvector**.
+- **[The Engine (Backend)](https://github.com/AmartyaSen23/socrates-backend):** Asynchronous FastAPI deployed on **Render**. Features a self-healing 5-layer cascade for aggressive market data ingestion and a Deep SEC RAG Vectorization engine that chunks and embeds massive 10-K/20-F filings directly into **Supabase pgvector**.
 - **[The Terminal (Frontend)](https://github.com/AmartyaSen23/socrates-frontend):** Next.js 14+ application deployed on **Vercel**. Engineered with an "Immortal" polling architecture for zero-latency UX, featuring asynchronous market integrations and non-blocking background RAG execution streams.
 - **AI Brain:** Leverages Cohere for embeddings and a **dynamic Groq model assignment architecture** (loops up to 5 times to automatically secure an active, non-purged LLM) to synthesize structured trading theses from live SEC filings and institutional news.
 
