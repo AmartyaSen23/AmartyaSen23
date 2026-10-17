@@ -74,10 +74,8 @@ A community-focused web application for food exchange and surplus redistribution
 
 ### 📊 GitHub Analytics
 
-<!-- Stats converted to pure Markdown formatting to bypass GitHub's HTML sanitizer which often breaks <img /> tags -->
+![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmartyaSen23&show_icons=true&theme=radium&hide_border=true)
 
-[![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmartyaSen23&show_icons=true&theme=radium&hide_border=true)](https://github.com/AmartyaSen23)
-<br>
-[![Amar's GitHub Streak](https://streak-stats.demolab.com/?user=AmartyaSen23&theme=radium&hide_border=true)](https://github.com/AmartyaSen23)
-<br>
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaSen23&layout=compact&theme=radium&hide_border=true)](https://github.com/AmartyaSen23)
+![Amar's GitHub Streak](https://streak-stats.demolab.com/?user=AmartyaSen23&theme=radium&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaSen23&layout=compact&theme=radium&hide_border=true)
