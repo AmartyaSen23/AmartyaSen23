@@ -1,81 +1,89 @@
-# Hi there 👋, I'm Amartya Sen (Amar)
+<div align="center">
 
-**AI & Machine Learning Engineer | Quantitative Architecture**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Amartya%20Sen%20(Amar)&fontColor=ffffff&fontSize=55&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Quantitative%20Architecture&descAlignY=60" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Architecting+Autonomous+AI+Systems;Building+Socrates+AI+%26+Quant+Engines;Deep+Learning+%7C+RAG+Pipelines+%7C+Next.js;Optimizing+High-Frequency+Backend+Pipelines" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=AmartyaSen23&style=for-the-badge&color=00B4D8" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/AmartyaSen23?style=for-the-badge&color=00B4D8" alt="Followers" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/amartya-sen">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/AmartyaSen23">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 Executive Summary
 
 🎓 B.Tech Computer Science & Engineering (AI & ML) undergrad at **Lovely Professional University** (Class of 2028). I architect resilient, autonomous AI systems at the intersection of quantitative finance and deep learning, specializing in enterprise-grade Retrieval-Augmented Generation (RAG) pipelines and high-performance, non-blocking asynchronous architectures.
 
----
-
-### 🚀 Quick Stats & Current Focus
-
-- 🔭 **Currently Building:** **Socrates AI**, an institutional-grade quantitative research engine with a Next.js terminal and FastAPI backend.
-- 🌱 **Currently Exploring:** Deep RAG vectorization optimization, autonomous ML trading algorithms, and fail-fast systemic architecture.
-- 🏆 **Recent Milestones:** Secured **6th Place at Microsoft's Code Storm Hackathon** (June 2026) and competing in the **Amazon ML Challenge 2026**.
-- 📫 **Connect with me:** [[LinkedIn](https://www.linkedin.com/in/amartya-sen)]
+```yaml
+Current_Focus:
+  - Building: Socrates AI (Institutional Research Engine)
+  - Exploring: Deep RAG vectorization, XGBoost Quant trading
+  - Competing: Amazon ML Challenge 2026
+```
 
 ---
 
-### 💻 Tech Stack & Architecture
+## 💻 Tech Stack & Architecture
 
-**Languages**
-- Python • TypeScript • C++ • Java • C
+### Core Languages
 
-**AI, Vector & Data Engineering**
-- Multi-query RAG • Dynamic LLM Orchestration (Groq) • Cohere Embeddings
-- TensorFlow / Keras (LSTM) • HuggingFace (FinBERT)
-- Supabase (PostgreSQL + pgvector) • SEC EDGAR Automated Ingestion
+### AI, Data Engineering & Vector DBs
 
-**Backend & High-Performance APIs**
-- FastAPI (Asynchronous) • Spring Boot • Alpaca Broker SDK • Pydantic
-
-**Frontend & Institutional UX**
-- Next.js 14+ (App Router) • React 18 • Tailwind CSS • TradingView Advanced Charts • Streamlit
-
-**Cloud & DevOps**
-- Vercel • Render • Microsoft Azure • Docker
+### Backend & Frontend Frameworks
 
 ---
 
-### 📂 Featured Systems
+## 📂 Featured Systems
 
-#### 🏛️ Socrates AI: Autonomous Quantitative Research Engine
-A fully autonomous, production-ready data engineering and AI inference platform designed to replicate an institutional Bloomberg Terminal. 
-- **[The Engine (Backend)](https://github.com/AmartyaSen23/socrates-backend):** Asynchronous FastAPI deployed on **Render**. Features a self-healing 5-layer cascade for aggressive market data ingestion and a Deep SEC RAG Vectorization engine that chunks and embeds massive 10-K/20-F filings directly into **Supabase pgvector**.
-- **[The Terminal (Frontend)](https://github.com/AmartyaSen23/socrates-frontend):** Next.js 14+ application deployed on **Vercel**. Engineered with an "Immortal" polling architecture for zero-latency UX, featuring asynchronous market integrations and non-blocking background RAG execution streams.
-- **AI Brain:** Leverages Cohere for embeddings and a **dynamic Groq model assignment architecture** (loops up to 5 times to automatically secure an active, non-purged LLM) to synthesize structured trading theses from live SEC filings and institutional news.
+### 🏛️ Socrates AI: Autonomous Quantitative Research Engine
 
-#### ⚡ [OmniStock AI: Universal Market Intelligence](https://github.com/AmartyaSen23/OmniStock-AI) *(Public)*
+A fully autonomous, production-ready data engineering and AI inference platform designed to replicate an institutional Bloomberg Terminal.
+
+* **[The Engine (Backend)](https://github.com/AmartyaSen23/socrates_backend):** Asynchronous FastAPI deployed on **Render**. Features a self-healing 5-layer cascade for aggressive market data ingestion and a Deep SEC RAG Vectorization engine directly into **Supabase pgvector**.
+* **[The Terminal (Frontend)](https://github.com/AmartyaSen23/socrates-frontend):** Next.js 14+ application deployed on **Vercel** with an "Immortal" polling architecture for zero-latency UX.
+* **AI Brain:** Leverages Cohere embeddings and dynamic Groq model assignment to synthesize structured trading theses from live SEC filings.
+
+### ⚡ [OmniStock AI: Universal Market Intelligence](https://github.com/AmartyaSen23/OmniStock-AI) *(Public)*
+
 A high-performance quantitative trading engine merging deep learning price forecasting with real-time NLP market sentiment analysis.
-- **Architecture:** Employs a "King Engine Logic" confluence model, combining a 60-day historical LSTM neural network with a real-time FinBERT & VADER sentiment intercept via Google News RSS.
-- **Infrastructure:** Highly optimized FastAPI core with background telemetry pushed to Supabase, feeding a dynamic, decoupled Streamlit dashboard.
 
-#### 📈 XGBoost Quant Trader *(Private)*
-An automated quantitative trading platform executing data-driven market strategies at sub-second latencies.
-- **Architecture:** Utilizes trained XGBoost machine learning models for predictive trade signals.
-- **Infrastructure:** Integrated directly with the **Alpaca API** for live execution and fully deployed on **Microsoft Azure** for high availability.
+* **Architecture:** "King Engine Logic" confluence model combining a 60-day historical LSTM neural network with real-time FinBERT & VADER sentiment intercept.
+* **Infrastructure:** Optimized FastAPI core with background telemetry pushed to Supabase, feeding a decoupled Streamlit dashboard.
 
-#### 🏢 CampusShare (UniRent) *(Public)*
-A secure, peer-to-peer university resource-sharing marketplace.
-- **Tech Stack:** Spring Boot REST API, Supabase PostgreSQL, JWT authentication. 
-- **Links:** [Frontend Repository (Vercel)](https://github.com/AmartyaSen23/uni_rent) | [Backend Repository (Render)](https://github.com/AmartyaSen23/Uni-Rent-Backend)
+### 📈 XGBoost Quant Trader *(Private)*
 
-#### 🌍 [BloomNet](https://github.com/AmartyaSen23/BloomNet) *(Public)*
-A community-focused web application for food exchange and surplus redistribution utilizing geolocation coordination to connect users efficiently.
+An automated quantitative trading platform executing data-driven market strategies at sub-second latencies via **Alpaca API** and deployed on **Microsoft Azure**.
 
----
+### 🏢 CampusShare (UniRent) *(Public)*
 
-### 🏆 Certifications & Achievements
+A secure, peer-to-peer university resource-sharing marketplace built with Spring Boot, PostgreSQL, and JWT.
 
-- 🥇 **6th Place, Microsoft Code Storm Hackathon (2026):** Developed a scalable farmer-buyer marketplace application under strict time constraints.
-- 📜 **AI Launchpad Training (2026):** Completed intensive training on LLMs and RAG architectures at Lovely Professional University.
-- 🎯 **Amazon ML Challenge 2026:** Registered national participant.
+* **Links:** [Frontend (Vercel)](https://github.com/AmartyaSen23/uni_rent) | [Backend (Render)](https://github.com/AmartyaSen23/Uni-Rent-Backend)
+
+### 🌍 [BloomNet](https://github.com/AmartyaSen23/BloomNet) *(Public)*
+
+A community-focused web application for food exchange utilizing geolocation coordination.
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
-![Amar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmartyaSen23&show_icons=true&theme=radium&hide_border=true)
+---
 
-![Amar's GitHub Streak](https://streak-stats.demolab.com/?user=AmartyaSen23&theme=radium&hide_border=true)
+## 📈 Code Activity Graph
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmartyaSen23&layout=compact&theme=radium&hide_border=true)
+---
+
+## 🐍 Contribution Grid Snake
