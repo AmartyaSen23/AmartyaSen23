@@ -1,23 +1,18 @@
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Amartya%20Sen%20%7C%20Amar&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Quantitative%20Architecture&descAlignY=60](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Amartya%20Sen%20%7C%20Amar&fontColor=ffffff&fontSize=50&fontAlignY=35&animation=fadeIn&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Quantitative%20Architecture&descAlignY=60)" width="100%" />
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,30&text=Amartya%20Sen&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn&desc=AI%20%2B%20ML%20Engineer%20|%20Quantitative%20Architecture&descAlignY=60)
 
-<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Architecting+Autonomous+AI+Systems;Building+Socrates+AI+%26+Quant+Engines;Deep+Learning+%7C+RAG+Pipelines+%7C+Next.js;Optimizing+High-Frequency+Backend+Pipelines](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Architecting+Autonomous+AI+Systems;Building+Socrates+AI+%26+Quant+Engines;Deep+Learning+%7C+RAG+Pipelines+%7C+Next.js;Optimizing+High-Frequency+Backend+Pipelines)" />
-
-<br>
-
-<img src="[https://komarev.com/ghpvc/?username=AmartyaSen23&style=for-the-badge&color=00B4D8](https://komarev.com/ghpvc/?username=AmartyaSen23&style=for-the-badge&color=00B4D8)" alt="Profile Views" />
-<img src="[https://img.shields.io/github/followers/AmartyaSen23?style=for-the-badge&color=00B4D8](https://img.shields.io/github/followers/AmartyaSen23?style=for-the-badge&color=00B4D8)" alt="Followers" />
-<img src="[https://img.shields.io/github/stars/AmartyaSen23?affiliations=OWNER&style=for-the-badge&color=00B4D8](https://img.shields.io/github/stars/AmartyaSen23?affiliations=OWNER&style=for-the-badge&color=00B4D8)" alt="Stars" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=900&lines=Architecting+Autonomous+AI+Systems;Building+Socrates+AI+%26+Quant+Engines;Deep+Learning+%7C+RAG+Pipelines+%7C+Next.js;Optimizing+High-Frequency+Backend+Pipelines)
 
 <br>
 
-<a href="[https://www.linkedin.com/in/amartya-sen](https://www.linkedin.com/in/amartya-sen)">
-  <img src="[https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)" />
-</a>
-<a href="[https://github.com/AmartyaSen23](https://github.com/AmartyaSen23)">
-  <img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)" />
-</a>
+![Followers](https://img.shields.io/github/followers/AmartyaSen23?style=for-the-badge&color=00B4D8)
+![Stars](https://img.shields.io/github/stars/AmartyaSen23?affiliations=OWNER&style=for-the-badge&color=00B4D8)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amartya-sen)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/AmartyaSen23)
 
 </div>
 
@@ -31,7 +26,7 @@
       - Building: Socrates AI (Institutional Research Engine)
       - Exploring: Deep RAG vectorization, XGBoost Quant trading
       - Competing: Amazon ML Challenge 2026
-      - Recent Milestone: 6th Place at Microsoft Code Storm Hackathon (2026)
+      - Recent Milestone: 6th Place at Microsoft Code Storm Hackathon
 
 ---
 
@@ -40,19 +35,13 @@
 <div align="center">
 
 ### Core Languages
-<p align="center">
-  <img src="[https://skillicons.dev/icons?i=py,ts,cpp,java,c](https://skillicons.dev/icons?i=py,ts,cpp,java,c)" />
-</p>
+![Core Languages](https://skillicons.dev/icons?i=py,ts,cpp,java,c)
 
 ### AI, Data Engineering & Vector DBs
-<p align="center">
-  <img src="[https://skillicons.dev/icons?i=tensorflow,postgres,supabase,docker,azure](https://skillicons.dev/icons?i=tensorflow,postgres,supabase,docker,azure)" />
-</p>
+![AI & DBs](https://skillicons.dev/icons?i=tensorflow,postgres,supabase,docker,azure)
 
 ### Backend & Frontend Frameworks
-<p align="center">
-  <img src="[https://skillicons.dev/icons?i=fastapi,spring,nextjs,react,tailwind,vercel,git,github,vscode](https://skillicons.dev/icons?i=fastapi,spring,nextjs,react,tailwind,vercel,git,github,vscode)" />
-</p>
+![Frameworks](https://skillicons.dev/icons?i=fastapi,spring,nextjs,react,tailwind,vercel,git,github,vscode)
 
 </div>
 
@@ -95,15 +84,11 @@ A community-focused web application for food exchange utilizing geolocation coor
 
 <div align="center">
 
-<img height="180em" src="[https://github-readme-stats-eight-theta.vercel.app/api?username=AmartyaSen23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true](https://github-readme-stats-eight-theta.vercel.app/api?username=AmartyaSen23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)" />
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=AmartyaSen23&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="180em" src="[https://streak-stats.demolab.com/?user=AmartyaSen23&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=AmartyaSen23&theme=tokyonight&hide_border=true)" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=AmartyaSen23&theme=tokyonight&hide_border=true)
 
-</div>
-
-<div align="center">
-
-<img height="180em" src="[https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmartyaSen23&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmartyaSen23&layout=compact&theme=tokyonight&hide_border=true)" />
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AmartyaSen23&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -113,7 +98,7 @@ A community-focused web application for food exchange utilizing geolocation coor
 
 <div align="center">
 
-<img src="[https://github-readme-activity-graph.vercel.app/graph?username=AmartyaSen23&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=AmartyaSen23&theme=tokyo-night&hide_border=true)" />
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AmartyaSen23&theme=tokyonight)
 
 </div>
 
@@ -123,8 +108,8 @@ A community-focused web application for food exchange utilizing geolocation coor
 
 <div align="center">
 
-<img alt="Snake animation" src="[https://raw.githubusercontent.com/AmartyaSen23/AmartyaSen23/output/github-contribution-grid-snake-dark.svg](https://raw.githubusercontent.com/AmartyaSen23/AmartyaSen23/output/github-contribution-grid-snake-dark.svg)" />
+![Snake animation](https://raw.githubusercontent.com/AmartyaSen23/AmartyaSen23/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30)" width="100%" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30)
